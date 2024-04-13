@@ -1,7 +1,7 @@
 # Diwali-sales-Analysis
 ## Problem statement
 Diwali, the most celebrated festival in India, marks a significant surge in consumer spending, particularly on items such as clothing, electronics, and accessories. As a result, major retail giants in India often ramp up their offers and discounts during this period. Analyzing sales data becomes crucial during Diwali to understand and capitalize on emerging trends, ensuring businesses can effectively meet consumer demands and maximize sales opportunities.
-## Understanding Requiremnts
+## Understanding Requirements
 * Which is the most and least selling product category ?
 * which age group people tend to by more ?
 * Which state is the top spending state ?
