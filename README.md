@@ -5,7 +5,7 @@ Diwali, the most celebrated festival in India, marks a significant surge in cons
 * Which is the most and least selling product category ?
 * which age group people tend to by more ?
 * Which state is the top spending state ?
-* People working in which prefession are tend to spend more in this diwlai ?
+* People working in which prefession are tend to spend more in this diwali ?
 ## Steps to meet the requirements
 1. Data cleaning - Remove the unused data.
 2. Data transformation - Transform the records and cloumns as per the requiremnts.
